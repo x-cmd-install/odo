@@ -6,13 +6,25 @@
 
 odo - Developer-focused CLI for fast & iterative container-based application development on Podman and Kubernetes. Implementation of the open Devfile standard. Officially DEPRECATED: https://odo.dev/blog/odo-deprecation-announcement/
 
-![odo](https://repo.x-cmd.io/odo.svg)
+![odo](https://repo.x-cmd.io/odo.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install odo
 ```
+
+## 代码洞察
+
+合计: **1,934,639** 行代码（覆盖前 5 种语言、共 **7689** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 1,713,960 | 291,508 | 176,305 | 7213 |
+| Json | 149,355 | 0 | 1 | 56 |
+| Yaml | 28,108 | 260 | 508 | 262 |
+| AssemblyGAS | 15,650 | 1,740 | 3,272 | 78 |
+| Protobuf | 9,142 | 16,801 | 5,034 | 80 |
 
 ## 源代码
 
@@ -24,7 +36,6 @@ x install odo
 
 - **最新版本**: `v3.16.1` (2024-06-25)
 - **最近提交**: 2026-01-29
-- **发布时间**: 2024-06-25T15:45:16Z
 
 ## 流行度
 
@@ -39,20 +50,11 @@ x install odo
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 17 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 2 | 34 | 1 | 1 | 3 |
-
-## 代码规模
-
-合计: **1,934,639** 行代码（覆盖前 5 种语言、共 **7689** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 1,713,960 | 291,508 | 176,305 | 7213 |
-| Json | 149,355 | 0 | 1 | 56 |
-| Yaml | 28,108 | 260 | 508 | 262 |
-| AssemblyGAS | 15,650 | 1,740 | 3,272 | 78 |
-| Protobuf | 9,142 | 16,801 | 5,034 | 80 |
+| last720d | 2024-09-20 | 0 | 15 | 34 | 3 | 1 | 27 |
 
 ## 改进这些数据
 
@@ -63,4 +65,4 @@ odo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:38:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:51:47Z._
