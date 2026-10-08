@@ -39,7 +39,7 @@ Total: **1,934,639** lines of code across **7689** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 837 · **Forks**: 243 · **Open issues**: 3,537 · **Contributors**: 207
+- **Stars**: 837 · **Forks**: 243 · **Open issues**: 3,537 · **Contributors**: 208
 
 ## Totals (cumulative)
 
@@ -49,12 +49,12 @@ Total: **1,934,639** lines of code across **7689** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 0 | 2 | 34 | 1 | 1 | 3 |
-| last720d | 2024-10-17 | 0 | 9 | 34 | 3 | 1 | 15 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 0 | 2 | 34 | 1 | 1 | 3 |
+| last720d | 2024-10-18 | 0 | 9 | 34 | 3 | 1 | 15 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for odo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:30:47Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:44:39Z._
